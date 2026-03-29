@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "宿命 (Instrumental)",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2026-03-29T13:28:37.200531Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "宿命",
+      "artist": "Masayoshi Soken",
+      "has_synced": false,
+      "path": "select/01_宿命_Masayoshi_Soken.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "宿命",
+      "artist": "Official髭男dism",
+      "has_synced": true,
+      "path": "select/02_宿命_Official髭男dism.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "宿命",
+      "artist": "Soken, Masayoshi",
+      "has_synced": false,
+      "path": "select/03_宿命_Soken,_Masayoshi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "宿命",
+      "artist": "en",
+      "has_synced": false,
+      "path": "select/04_宿命_en.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "宿命",
+      "artist": "陳昇",
+      "has_synced": true,
+      "path": "select/05_宿命_陳昇.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hard to Miss / 宿命",
+      "artist": "Masayoshi Soken",
+      "has_synced": false,
+      "path": "select/06_Hard_to_Miss___宿命_Masayoshi_Soken.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hard to Miss / 宿命",
+      "artist": "Soken, Masayoshi",
+      "has_synced": false,
+      "path": "select/07_Hard_to_Miss___宿命_Soken,_Masayoshi.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "宿命( 新传媒电视剧《你的世界我们懂 主题曲》)",
+      "artist": "林延芯",
+      "has_synced": false,
+      "path": "select/08_宿命(_新传媒电视剧《你的世界我们懂_主题曲》)_林延芯.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "宿命 - Shukumei",
+      "artist": "Official Hige Dandism",
+      "has_synced": true,
+      "path": "select/09_宿命_-_Shukumei_Official_Hige_Dandism.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "宿命",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_宿命_Official髭男dism.txt"
+    }
+  ]
+}
